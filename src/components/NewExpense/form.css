@@ -1,0 +1,15 @@
+.wrapper1{
+    width: 80%;
+    background-color: rgb(34, 34, 50);
+    border-radius: 10px;
+    height: 50vh;
+    display: flex;
+    margin: auto;
+    justify-content:center;
+    text-align: center;
+    align-items:center ;
+    flex-direction: column;
+}
+label{
+    color: white;
+}
