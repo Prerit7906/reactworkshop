@@ -1,0 +1,8 @@
+.date{
+    background-color: rgb(33, 33, 43);
+    color: rgb(211, 208, 243);
+    width: 12%;
+    border-radius: 10px;
+    font-size: medium;
+    padding: 20px 0;
+}

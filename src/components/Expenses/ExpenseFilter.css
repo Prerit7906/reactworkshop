@@ -1,0 +1,14 @@
+.filter{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end ;
+}
+select{
+    width: 70px;
+    height: 30px;
+    margin-right: 60px;
+}
+span{
+    color: white;
+    margin-right:10px ;
+}
